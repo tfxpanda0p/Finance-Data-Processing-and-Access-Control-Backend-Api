@@ -5,6 +5,7 @@ const validateRole = require("../middleware/authRole");
 const { sensitiveLimiter } = require("../middleware/rateLimiter");
 
 router.post("/register", sensitiveLimiter, register);
+router.get("/register", (req, res) => res.status(405).json({ success: false, message: "Registration requires a POST request. Please use our Swagger documentation or a tool like Postman." }));
 router.post("/login", sensitiveLimiter, login);
 router.post("/logout", authUser, logout);
 
