@@ -1,14 +1,14 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "Project for zorvyn.io Finance Data Processing and Access Control Backend",
-  "homepage": "https://github.com/tfxpanda0p/Finance-Data-Processing-and-Access-Control-Backend#readme",
+  "description": "Project for zorvyn.io Finance Data Processing and Access Control Backend API",
+  "homepage": "https://github.com/tfxpanda0p/Finance-Data-Processing-and-Access-Control-Backend-Api#readme",
   "bugs": {
-    "url": "https://github.com/tfxpanda0p/Finance-Data-Processing-and-Access-Control-Backend/issues"
+    "url": "https://github.com/tfxpanda0p/Finance-Data-Processing-and-Access-Control-Backend-Api/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tfxpanda0p/Finance-Data-Processing-and-Access-Control-Backend.git"
+    "url": "https://github.com/tfxpanda0p/Finance-Data-Processing-and-Access-Control-Backend-Api"
   },
   "license": "ISC",
   "author": "Subham Banerjee",

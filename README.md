@@ -1,4 +1,4 @@
-# 📘 Finance Data Processing & Access Control Backend
+# 📘 Finance Data Processing & Access Control Backend API
 
 A premium, secure Node.js/Express backend designed for financial dashboard applications. This system prioritizes **Role-Based Access Control (RBAC)**, **Advanced Security**, and **Real-time Data Analytics**.
 
