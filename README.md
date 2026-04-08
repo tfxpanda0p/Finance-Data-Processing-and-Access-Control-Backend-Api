@@ -6,8 +6,8 @@ A premium, secure Node.js/Express backend designed for financial dashboard appli
 
 ## 🔗 Live Resources
 
-- **Interactive Documentation**: [Swagger UI @ Render](https://finance-data-processing-and-access-doon.onrender.com/api-docs)
-- **Deployment Status**: [![Status](https://img.shields.io/website?url=https%3A%2F%2Ffinance-data-processing-and-access-doon.onrender.com%2Fapi-docs)](https://finance-data-processing-and-access-doon.onrender.com/api-docs)
+- **Interactive Documentation**: [Swagger UI @ Render](https://finance-data-processing-and-access-plri.onrender.com/api-docs)
+- **Deployment Status**: [![Status](https://img.shields.io/website?url=https%3A%2F%2Ffinance-data-processing-and-access-plri.onrender.com%2Fapi-docs)](https://finance-data-processing-and-access-plri.onrender.com/api-docs)
 
 ---
 

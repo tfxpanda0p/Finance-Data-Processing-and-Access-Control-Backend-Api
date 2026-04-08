@@ -14,7 +14,7 @@ const options = {
         },
         servers: [
             {
-                url: 'https://finance-data-processing-and-access-doon.onrender.com',
+                url: 'https://finance-data-processing-and-access-plri.onrender.com',
                 description: 'Production server',
             },
             {
